@@ -32,7 +32,7 @@ namespace SampleOnnxEvaluationApp
     {
         private Stopwatch _stopwatch = new Stopwatch();
         private OnnxModel _model = null;
-        private string _ourOnnxFileName = "onnx12.onnx";
+        private string _ourOnnxFileName = "94955c74c57c49659fbb912db98f8428.ONNX12ForWindows17738Higher.onnx";
 
         public sealed class OnnxModelInput
         {
